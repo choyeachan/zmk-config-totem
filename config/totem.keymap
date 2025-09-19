@@ -20,6 +20,11 @@
 #define ZMK_POINTING_DEFAULT_MOVE_VAL 600 // 600
 #define ZMK_POINTING_DEFAULT_SCRL_VAL 20  // 10
 
+#define base 0
+#define nav_num 1
+#define sym_func 2
+#define device 3
+
 // Based on @caksoylar's config, defaults in comments
 &mmv {
   acceleration-exponent = <1>;          // 1
